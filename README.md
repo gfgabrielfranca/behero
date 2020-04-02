@@ -124,7 +124,7 @@ $ yarn start
 
 ## :package: API
 
-Import into Insomnia to access more details about the API.
+Click the button below to import the API into Insomnia for more details.
 
 [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Be%20The%20Hero&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fgfgabrielfranca%2Fbe-the-hero%2Fmaster%2Fbackend%2Finsomnia.json)
 
