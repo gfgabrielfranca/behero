@@ -39,7 +39,7 @@
 
 ## :rocket: Technologies
 
-This project was developed based on the Omnistack 11.0 week by [RocketSeat](https://rocketseat.com.br/) with the following technologies:
+This project was developed based on the Omnistack 11.0 week by [Rocketseat](https://rocketseat.com.br/) with the following technologies:
 
 ### Frontend
 
